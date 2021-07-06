@@ -9,6 +9,7 @@
 
 .nevbar{
     padding-left: 78%;
+    margin-bottom: 30x;
     
 }
 a{
@@ -166,8 +167,9 @@ h3{
 footer{
     text-align: center;
     background-color: #0B0D17;
-    padding: 5% 0;
+    padding: 3% 0;
 }
+
 #footer{
     color: #5B5B5B;
 }
